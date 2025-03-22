@@ -234,7 +234,9 @@ PROGRAM
 ```
 
 OUTPUT:
-![Screenshot 2025-03-15 120653](https://github.com/user-attachments/assets/638f3245-d5af-4802-817d-9b006211ede7)
+
+![webactivity](https://github.com/user-attachments/assets/8e04815b-aecd-421f-bb74-bc86ca7f6eff)
+
 
 RESULT
 
